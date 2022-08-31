@@ -1,0 +1,11 @@
+D:\M.STUDİO PROJELER\ConsoleApp1\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+D:\M.STUDİO PROJELER\ConsoleApp1\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+D:\M.STUDİO PROJELER\ConsoleApp1\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+D:\M.STUDİO PROJELER\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.AssemblyReference.cache
+D:\M.STUDİO PROJELER\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.SuggestedBindingRedirects.cache
+D:\M.STUDİO PROJELER\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+D:\M.STUDİO PROJELER\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+D:\M.STUDİO PROJELER\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+D:\M.STUDİO PROJELER\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+D:\M.STUDİO PROJELER\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+D:\M.STUDİO PROJELER\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
